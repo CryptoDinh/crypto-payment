@@ -1,0 +1,22 @@
+{
+  "name": "crypto-payment-sdk",
+  "version": "1.0.0",
+  "description": "crypto payment made easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github_crypto:CryptoDinh/crypto-payment.git"
+  },
+  "keywords": [
+    "crypto",
+    "payment"
+  ],
+  "author": "CD",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "crypto-payment-qr": "^1.2.0"
+  }
+}
